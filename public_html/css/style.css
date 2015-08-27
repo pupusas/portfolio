@@ -1,0 +1,26 @@
+body {
+    background-color: lightskyblue;
+}
+nav a {
+    color: red;
+}
+
+#current-link {
+    text-decoration: none; color: crimson
+}
+.uppercase {
+    text-transform: uppercase;
+    font-size: 45px;
+}
+img {
+    width: 360px;  
+    height: auto
+}
+h1 {
+  border-top: #000000 4px dashed;
+  border-bottom: #000000 4px dashed;
+  padding: 10px;
+      padding-left: 525px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+} 
